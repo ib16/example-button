@@ -9,7 +9,7 @@
 
 GMAIL_ADDRESS = "iotbutton2016@gmail.com"
 GMAIL_PASSWORD = "Button2016"
-EMAIL_SENDTO = "nohara@xshell.io"
+EMAIL_SENDTO = "sa-kurita@kddi.com"
 
 TWITTER_CONSUMER_KEY = "UoZIinYJfxqBj37Psqeq08Isb"
 TWITTER_CONSUMER_SECRET = "AHYjeg7gHa91CbStLJ5hZovekFfTKCyr7Uho9je18P92VSNQyF"
