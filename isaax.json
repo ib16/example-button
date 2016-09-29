@@ -1,0 +1,12 @@
+{
+  "name": "IoT Button",
+  "version": "",
+  "description": "python - edison",
+  "main": "main.py",
+  "author": "",
+  "license": "",
+  "scripts": {
+    "start": "python -u main.py"
+  },
+  "dependency": null 
+}
